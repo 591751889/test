@@ -9,3 +9,4 @@ if torch.cuda.is_available():
     print(x)
 else:
     print("CUDA is not available")
+print('dddddd')
